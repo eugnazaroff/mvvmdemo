@@ -1,0 +1,2 @@
+schema: https://jsonplaceholder.ir/graphql
+documents: '**/*.graphql'
